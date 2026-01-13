@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Nishan",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -8,19 +8,19 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your email",
-  "PASSWORD": "your password",
+  "EMAIL": "nishan734428@gmail.com",
+  "PASSWORD": "mayamini123",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
+  "BOTNAME": "MAYA-BBY",
+  "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "100001039692046",
-    "100001039692046"
+    "61576582166342",
+    "",
+    ""
   ],
-  "NDH": ["100001039692046"],
+  "NDH": ["61564127785947"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
